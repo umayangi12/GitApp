@@ -3,7 +3,7 @@ package com.example.vaccinationregistration;
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
-
+//uma
 public class MainActivity extends AppCompatActivity {
 
     @Override
