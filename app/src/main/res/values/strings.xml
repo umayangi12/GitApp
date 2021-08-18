@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Vaccination Registration</string>
+    <string name ="tv_nic">NIC</string>
+    <string name ="et_nic">NIC</string>
+    <string name ="tv_dose">IS first dose given?</string>
+    <string name ="et_dose">Did you get your first dose?</string>
+    <string name ="tv_allergie">Allergie</string>
+    <string name ="et_allergie">Do you have allergies?</string>
+    <string name ="tv_Ato">Allergies to?</string>
+    <string name ="et_Ato">What are your allergies to?</string>
+    <string name ="tv_hd">Heart Disease?</string>
+    <string name ="et_hd">Do you have heart disease?</string>
+    <string name ="tv_anyd">Any disease?</string>
+    <string name ="et_anyd">Do you have any other disease?</string>
+    <string name="btn2">Confirm Details</string>
+</resources>
